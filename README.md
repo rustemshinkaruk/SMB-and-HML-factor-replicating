@@ -6,7 +6,7 @@ Problem 1,2,3.
 
 Cleaning steps:
 
-I downloaded 8 variables specified in the assignment from CRSP from Jan 1973 to Dec 2018. I used monthly data through this homework. 
+I downloaded 8 variables specified in the assignment from CRSP from Jan 1973 to Dec 2018. I used monthly data .
 
 I restrict the sample to common shares (share codes 10 and 11) and to securities traded in the New York Stock Exchange, American Stock Exchange, or the Nasdaq Stock Exchange (exchange codes 1, 2, and 3).
 
